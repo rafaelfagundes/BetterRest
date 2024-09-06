@@ -2,6 +2,9 @@
 
 BetterRest is an iOS application aimed at helping users determine the optimal sleep duration and wake-up time based on their daily schedule. 
 
+## Screenshot
+<img src="./screenshot.png" width="400">
+
 ## Tech Stack
 
 - **iOS Development**
