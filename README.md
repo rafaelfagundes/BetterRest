@@ -1,6 +1,6 @@
 # BetterRest
 
-BetterRest is an iOS application aimed at helping users determine the optimal sleep duration and wake-up time based on their daily schedule. 
+BetterRest is an iOS application aimed at helping users determine the optimal sleep duration and wake-up time based on their daily schedule, leveraging the power of Core ML to provide personalized recommendations and enhance the user experience through intelligent data analysis.
 
 ## Screenshot
 <img src="./screenshot.png" width="400">
